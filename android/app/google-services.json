@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "654940196215",
+    "project_id": "riverpodauth-6b43f",
+    "storage_bucket": "riverpodauth-6b43f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654940196215:android:9ac1b003d9967caad62572",
+        "android_client_info": {
+          "package_name": "com.osyuu.river_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654940196215-2sipsgeo084t5ag0n9dgrlesv1p0guuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIHojP9jU4SvY-6xTsiWrq5XOaBqQXXso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654940196215-2sipsgeo084t5ag0n9dgrlesv1p0guuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
